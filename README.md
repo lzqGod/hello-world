@@ -1,5 +1,5 @@
 # hello-world
-i'm learning some basic operation
+i'm learning some basic operations
 calm down！
 change some information
 don't
